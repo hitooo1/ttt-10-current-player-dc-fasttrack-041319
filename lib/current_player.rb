@@ -4,7 +4,8 @@ board.each do |x|
 x == "X" || x =="0"
 end
   
-def current_player
+def current_player(board)
+  
   
 end
 
