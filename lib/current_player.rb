@@ -5,7 +5,7 @@ x == "X" || x =="0"
 end
   
 def current_player(board)
-  turn_count
+  turn_count(board)
   
 end
 
